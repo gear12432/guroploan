@@ -1,0 +1,6 @@
+{
+  "name": "Small Finice - Customer & Finance Portal",
+  "description": "Mobile finance customer management app with customer list, real-time search, status filtering, and loan details.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
